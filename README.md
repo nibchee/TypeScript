@@ -1,2 +1,2 @@
 # TypeScript
-This contains notes for Typescript
+This contains notes for Typescript  for dev
